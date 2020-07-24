@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiago-dias-a6613643/)
 ### Hi there, I'm Thiago 👋 
 
-  I'm a software engineer who loves Python programming language and Django framework.
+- I'm a software engineer who loves Python programming language and Django framework.
   
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thiagodiasv&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
