@@ -1,6 +1,9 @@
 [![Visits Badge](https://badges.pufler.dev/visits/thiagodiasv/thiagodiasv)](https://badges.pufler.dev)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiago-dias-a6613643/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiago-dias-a6613643/) 
+[<img SRC="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/5585988274529)
+[<img SRC="https://img.shields.io/badge/telegram-%232ca5e0.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/thiago76ers)
+
 ### Hi there 👋 
 
 #### I'm Thiago  
