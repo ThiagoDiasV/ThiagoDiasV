@@ -6,8 +6,8 @@
 #### I'm Thiago  
 
 - I'm a software engineer who loves Python programming language and Django framework.
-- I'm also passionate about teaching code.
-- I'm looking for learn React. 
+- Teach code is one of my passions. 
+- React is on my sight. 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thiagodiasv&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
