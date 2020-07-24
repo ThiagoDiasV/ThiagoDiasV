@@ -7,7 +7,7 @@
 #### I'm Thiago  
 
 - I'm a software engineer who loves Python programming language and Django framework.
-- Teach code is one of my passions. 
+- Teaching code is one of my passions. 
 - React is on my sight. 
 
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/django-%23092e20.svg?&style=for-the-badge&logo=django&logoColor=white" />
