@@ -10,7 +10,7 @@
 - Teaching code is one of my passions. 
 - React is on my sight. 
 
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/django-%23092e20.svg?&style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/django-%23092e20.svg?&style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/travis-%233eaaaf.svg?&style=for-the-badge&logo=travis&logoColor=white" /> <img src="https://img.shields.io/badge/circleci-%23343434.svg?&style=for-the-badge&logo=circleci&logoColor=white" />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thiagodiasv&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
