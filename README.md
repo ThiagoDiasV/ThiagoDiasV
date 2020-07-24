@@ -6,7 +6,7 @@
 
 #### I'm Thiago  
 
-- I'm a software engineer who loves Python programming language and Django framework.
+- I'm a software engineer who loves Python programming language, Django framework and tests.
 - Teaching code is one of my passions. 
 - React is on my sight. 
 
