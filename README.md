@@ -1,6 +1,6 @@
-https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"
+### Hi there 👋, I'm Thiago. 
 
-### Hi there 👋
+<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thiagodiasv&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
